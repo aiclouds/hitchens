@@ -6,7 +6,7 @@ gem 'github-pages'
 gemspec
 
 # for demo site
-#gem "jekyll-paginate"
-#source "https://rubygems.org"
+gem "jekyll-paginate"
+source "https://rubygems.org"
 
 
