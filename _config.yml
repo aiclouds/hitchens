@@ -47,7 +47,7 @@ paginate_path: "/page/:num/"
 
 theme: hitchens-theme
 ignore_theme_config: true
-$ bundle
+
 plugins:
   - jekyll-paginate
 
