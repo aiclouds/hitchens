@@ -7,6 +7,6 @@ gemspec
 
 # for demo site
 gem "jekyll-paginate"
-source "https://rubygems.org"
+#source "https://rubygems.org"
 
 
