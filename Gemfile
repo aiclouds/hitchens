@@ -6,7 +6,5 @@ gemspec
 # for demo site
 gem "jekyll-paginate"
 source "https://rubygems.org"
-gem 'github-pages'
-gem "hitchens-theme"
 
 
